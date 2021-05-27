@@ -1,7 +1,8 @@
 # ProjectPortfolio
 This is a repository of projects to share. 
 
-#About Each Project 
+About Each Project
+#
 Project Name: Activity 2
 Python, Pandas, and Jupyter Notebooks
 The project is part of my Environmental Education requirements (I'd like to teach EE using Data Science).  I am converting  NC IT'S OUR AIR CURRICULUM Activity 2 Module 2  into a data science intro module.  I have been making this in my own time.  This project was built using Jupyter Notebooks and Python 3.  I have outlined in the comments the libraries, and programming concepts covered. You will see the notebooks are similar showing essentially the same thing, the exception is how variables and lists are made.
@@ -15,7 +16,7 @@ This site may change and be updated to include Stats about songs played, tour op
 various songs that might get palyed during the next tour. 
 https://sites.google.com/view/dead-dashboard/home 
 #
-Live  projects to view 
+
 Project name: Carbon Calculator 
 Javscript 
 About: This project allows users to estimate the amount of carbon stored in a tree 
